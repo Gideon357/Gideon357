@@ -2,8 +2,6 @@
 
 <p align="center"> Hi there! My name is Gideon. I mainly do backend but also some AI/ML in Python. I also do SQL databases, and some frontend. </p>
 
-<p align="center"><a href='https://ko-fi.com/C0C62HNI8' target='_blank'><img align="center" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
-
 Skills/Tools: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -15,12 +13,11 @@ Skills/Tools: <code><img height="20" src="https://raw.githubusercontent.com/gith
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://lh3.googleusercontent.com/proxy/CebkOuTcbMQdSaRGWWbfgO0HV3kqb6sNu2YLO-I1-FIO3c8TdZ2EXVom8WPGHbvQ4kvKHgLKUT9HViKf0tlgoguxbLzlt8JDyxK-efYOn8aBGWAbNKk"></img></code>
 
-
-- 🔭 I’m currently working on a WASM frontend framework for Python, my personal site, and a FiveM server
-- 🌱 I’m currently learning frontend design and development, React, WASM, security, DevOps, and more 
+- 🔭 I’m currently working on game development and some various side projects.
+- 🌱 I’m currently learning frontend design and development, and game development. 
 - 👯 I’m looking to collaborate on anything! 
 - 📫 How to reach me: grinberg1165@gmail.com, leave an issue here, see my social media below 
 
