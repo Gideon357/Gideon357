@@ -16,7 +16,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql"> <img src="https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c"> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C%20Sharp"> <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  
- <sub><em>There are a bunch more, but this is my main stack.</em></sub>
+ <sub align="center"><em>There are a bunch more, but this is my main stack.</em></sub>
 
 </p>
 <br/><br/>
