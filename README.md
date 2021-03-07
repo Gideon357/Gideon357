@@ -20,7 +20,7 @@
 
 <p align="center">
 <strong align="center">I'm currently working on:</strong> Installation 01 (game) and some other assorted graphics/game projects.
- <strong> I'm currently learning:</strong> Haxe, OpenGL & Plasma Engine.
+<br> <strong> I'm currently learning:</strong> Haxe, OpenGL & Plasma Engine.
 </p>
 <br/><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gideongrinberg&amp;show_icons=true" alt="GitHub stats">  </p>
