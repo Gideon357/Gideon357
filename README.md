@@ -24,4 +24,5 @@
 </p>
 <br/><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gideongrinberg&amp;show_icons=true" alt="GitHub stats">  </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gideongrinberg"></p>
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
