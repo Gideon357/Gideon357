@@ -9,7 +9,6 @@
   <a href="mailto:ggrinberg35@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/gideongrinberg"> <img src="https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=GITHUB&logoColor=white"></a>
   <a href="https://gideongrinberg.github.io"> <img src="https://img.shields.io/badge/-WEBSITE-blue?style=for-the-badge&logo=RSS&logoColor=white"></a> <br/><br/>
-  <img src="https://discord.c99.nl/widget/theme-3/409159043391815680.png">
 </p>
 <br/><br/>
 <h3 align="center"> My Tech: </h3>
